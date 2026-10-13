@@ -24,7 +24,7 @@ Hi there, I'm Çağrı Atalar 👋
 
 📌 About Me
 
-I'm a senior Computer Engineering student passionate about engineering software from first principles—spanning from bare-metal hardware and operating system kernels all the way to cloud-native microservices and deep learning pipelines.
+I'm a Computer Engineer passionate about engineering software from first principles—spanning from bare-metal hardware and operating system kernels all the way to cloud-native microservices and deep learning pipelines.
 
  Systems & Low-Level: Experienced in writing kernels from scratch in C & x86 Assembly, custom bootloaders (16-bit Real Mode to 32-bit Protected Mode), GDT/IDT configuration, and hardware I/O drivers.
 
