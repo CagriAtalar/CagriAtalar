@@ -34,7 +34,6 @@ Research & Deep Learning: Engineering end-to-end signal processing and deep lear
 
  Fun Fact: Deeply interested in contemporary analytic philosophy—I love applying rigorous conceptual decomposition, formal logic, and epistemic clarity to system architecture.
 
-Ask me about: Kernel internals, x86 Assembly constraints, microservice patterns, or why epistemology matters in software design!
 
 Tech Stack & Tooling
 
@@ -101,25 +100,7 @@ AI, Signal Processing & Systems
 
 💡 Open Source Spotlight: Implemented file creation and dynamic filename read/write operations in the reference project for Operating System in 1,000 Lines.
 
- Experience & Research
-
-KOU Human-Computer Interaction Laboratory | Research Intern
-
-Researched EEG-based affective computing on the DREAMER dataset.
-
-Trained deep learning architectures to extract discrete emotional states from bio-signals.
-
-Konsalt BT | DevOps Intern
-
-Developed and maintained automated Jenkins CI/CD deployment pipelines.
-
-Crafted and optimized Kubernetes manifests and Docker container environments.
-
-Mimi: AI Meeting Notes | Mobile Backend & Systems Contributor
-
-Developed Wi-Fi-only sync microservice modules in Node.js and event tracking in React Native.
-
-GitHub Stats & LeetCode
+GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CagriAtalar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cagri's GitHub Stats" height="165"/>
